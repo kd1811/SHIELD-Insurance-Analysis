@@ -25,7 +25,7 @@ The Power BI report contains the following views:
  
 ## Links
 
-🔗 **[View the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODk0ZDUxMGMtMGMwZC00ZmU2LTliODAtYTFkOTg5MDZmYTNhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
+🔗 **[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODk0ZDUxMGMtMGMwZC00ZmU2LTliODAtYTFkOTg5MDZmYTNhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
 
 ## Note
 
