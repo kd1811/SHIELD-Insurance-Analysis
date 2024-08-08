@@ -25,7 +25,7 @@ The Power BI report contains the following views:
  
 ## Links
 
-🔗 **[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODk0ZDUxMGMtMGMwZC00ZmU2LTliODAtYTFkOTg5MDZmYTNhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
+🔗 **[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODk0ZDUxMGMtMGMwZC00ZmU2LTliODAtYTFkOTg5MDZmYTNhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**<br>
 🔗 **[LinkedIn Post](https://www.linkedin.com/posts/desaikandarp_dataanalytics-powerbi-codebasicsvirtualinternship-activity-7227195048411467778-x18O?utm_source=share&utm_medium=member_desktop)**
 
 ## Note
