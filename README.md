@@ -22,3 +22,5 @@ The Power BI report contains the following views:
   - **Offline-Agent**: Highest revenue across all age groups.
   - **Online-App**: Higher revenue than Offline-Direct for age 31+.
   - **Online-Website**: Least revenue across all age groups.
+
+*Note: I am unable to share the input data due to restrictions. Thank you for your understanding.*
